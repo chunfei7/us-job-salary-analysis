@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+
+# The job postings data is about 1 GB; see the README for where to get it
+data/*
+!data/README.md
